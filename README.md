@@ -1,2 +1,2 @@
 # InfiniumOS
-Operating system to run platform
+Operating system to run server engine ecosystem
